@@ -1,0 +1,4 @@
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2500. Delete Greatest Value in Each Row\obj\Debug\net6.0\2500. Delete Greatest Value in Each Row.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2500. Delete Greatest Value in Each Row\obj\Debug\net6.0\2500. Delete Greatest Value in Each Row.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2500. Delete Greatest Value in Each Row\obj\Debug\net6.0\2500. Delete Greatest Value in Each Row.AssemblyInfo.cs
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2500. Delete Greatest Value in Each Row\obj\Debug\net6.0\2500. Delete Greatest Value in Each Row.csproj.CoreCompileInputs.cache

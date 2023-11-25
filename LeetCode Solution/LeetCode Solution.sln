@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1561. Maximum Number of Coins You Can Get", "1561. Maximum Number of Coins You Can Get\1561. Maximum Number of Coins You Can Get.csproj", "{FE9483FE-CD6F-4FAA-B444-34E03BADC95C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1561. Maximum Number of Coins You Can Get", "1561. Maximum Number of Coins You Can Get\1561. Maximum Number of Coins You Can Get.csproj", "{FE9483FE-CD6F-4FAA-B444-34E03BADC95C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2500. Delete Greatest Value in Each Row", "2500. Delete Greatest Value in Each Row\2500. Delete Greatest Value in Each Row.csproj", "{6703669B-8BB6-42FD-8CAF-540A5E2F877E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FE9483FE-CD6F-4FAA-B444-34E03BADC95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE9483FE-CD6F-4FAA-B444-34E03BADC95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE9483FE-CD6F-4FAA-B444-34E03BADC95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6703669B-8BB6-42FD-8CAF-540A5E2F877E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6703669B-8BB6-42FD-8CAF-540A5E2F877E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6703669B-8BB6-42FD-8CAF-540A5E2F877E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6703669B-8BB6-42FD-8CAF-540A5E2F877E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
