@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1685. Sum of Absolute Diffe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1727. Largest Submatrix With Rearrangements", "1727. Largest Submatrix With Rearrangements\1727. Largest Submatrix With Rearrangements.csproj", "{81633A11-52C1-4C8C-B891-F811ABBF9811}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43. Multiply Strings", "43. Multiply Strings\43. Multiply Strings.csproj", "{EB8457AB-31F3-4743-820C-DE7EDE081DFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "43. Multiply Strings", "43. Multiply Strings\43. Multiply Strings.csproj", "{EB8457AB-31F3-4743-820C-DE7EDE081DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "935. Knight Dialer", "935. Knight Dialer\935. Knight Dialer.csproj", "{29C2E9F0-A2E2-4B88-8825-CFF0D71990FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{EB8457AB-31F3-4743-820C-DE7EDE081DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB8457AB-31F3-4743-820C-DE7EDE081DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB8457AB-31F3-4743-820C-DE7EDE081DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C2E9F0-A2E2-4B88-8825-CFF0D71990FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C2E9F0-A2E2-4B88-8825-CFF0D71990FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C2E9F0-A2E2-4B88-8825-CFF0D71990FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C2E9F0-A2E2-4B88-8825-CFF0D71990FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
