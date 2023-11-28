@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\bin\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.exe
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\bin\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.deps.json
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\bin\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.runtimeconfig.json
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\bin\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.dll
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\bin\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.pdb
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.AssemblyInfo.cs
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.dll
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\refint\2147. Number of Ways to Divide a Long Corridor.dll
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.pdb
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\2147. Number of Ways to Divide a Long Corridor.genruntimeconfig.cache
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\2147. Number of Ways to Divide a Long Corridor\obj\Debug\net6.0\ref\2147. Number of Ways to Divide a Long Corridor.dll

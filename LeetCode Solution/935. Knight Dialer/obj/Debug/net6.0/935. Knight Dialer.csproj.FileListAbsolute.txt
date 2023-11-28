@@ -1,0 +1,4 @@
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\935. Knight Dialer\obj\Debug\net6.0\935. Knight Dialer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\935. Knight Dialer\obj\Debug\net6.0\935. Knight Dialer.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\935. Knight Dialer\obj\Debug\net6.0\935. Knight Dialer.AssemblyInfo.cs
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\935. Knight Dialer\obj\Debug\net6.0\935. Knight Dialer.csproj.CoreCompileInputs.cache
