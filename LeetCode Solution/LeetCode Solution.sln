@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2147. Number of Ways to Div
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "191. Number of 1 Bits", "191. Number of 1 Bits\191. Number of 1 Bits.csproj", "{3E8B8061-F1E8-443F-883C-24B3336403F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1611. Minimum One Bit Operations to Make Integers Zero", "1611. Minimum One Bit Operations to Make Integers Zero\1611. Minimum One Bit Operations to Make Integers Zero.csproj", "{303DE5D9-A638-4B89-983D-A8F8D1FB4CE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1611. Minimum One Bit Operations to Make Integers Zero", "1611. Minimum One Bit Operations to Make Integers Zero\1611. Minimum One Bit Operations to Make Integers Zero.csproj", "{303DE5D9-A638-4B89-983D-A8F8D1FB4CE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1662. Check If Two String Arrays are Equivalent", "1662. Check If Two String Arrays are Equivalent\1662. Check If Two String Arrays are Equivalent.csproj", "{55215304-E7C7-4174-BD88-EF988C3AC6E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1160. Find Words That Can Be Formed by Characters", "1160. Find Words That Can Be Formed by Characters\1160. Find Words That Can Be Formed by Characters.csproj", "{1F5E3C5A-87DE-4253-BC74-221FEA7BA928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{303DE5D9-A638-4B89-983D-A8F8D1FB4CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{303DE5D9-A638-4B89-983D-A8F8D1FB4CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{303DE5D9-A638-4B89-983D-A8F8D1FB4CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55215304-E7C7-4174-BD88-EF988C3AC6E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55215304-E7C7-4174-BD88-EF988C3AC6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55215304-E7C7-4174-BD88-EF988C3AC6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55215304-E7C7-4174-BD88-EF988C3AC6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5E3C5A-87DE-4253-BC74-221FEA7BA928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5E3C5A-87DE-4253-BC74-221FEA7BA928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5E3C5A-87DE-4253-BC74-221FEA7BA928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5E3C5A-87DE-4253-BC74-221FEA7BA928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
