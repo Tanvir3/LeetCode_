@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1662. Check If Two String A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1160. Find Words That Can Be Formed by Characters", "1160. Find Words That Can Be Formed by Characters\1160. Find Words That Can Be Formed by Characters.csproj", "{1F5E3C5A-87DE-4253-BC74-221FEA7BA928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1266. Minimum Time Visiting All Points", "1266. Minimum Time Visiting All Points\1266. Minimum Time Visiting All Points.csproj", "{25F026F4-2F0D-4F0A-A361-79F47E298B7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1266. Minimum Time Visiting All Points", "1266. Minimum Time Visiting All Points\1266. Minimum Time Visiting All Points.csproj", "{25F026F4-2F0D-4F0A-A361-79F47E298B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2264. Largest 3-Same-Digit Number in String", "2264. Largest 3-Same-Digit Number in String\2264. Largest 3-Same-Digit Number in String.csproj", "{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{25F026F4-2F0D-4F0A-A361-79F47E298B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25F026F4-2F0D-4F0A-A361-79F47E298B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25F026F4-2F0D-4F0A-A361-79F47E298B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

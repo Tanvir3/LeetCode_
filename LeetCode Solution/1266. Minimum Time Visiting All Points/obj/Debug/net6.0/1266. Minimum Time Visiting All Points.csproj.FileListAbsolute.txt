@@ -1,0 +1,4 @@
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\1266. Minimum Time Visiting All Points\obj\Debug\net6.0\1266. Minimum Time Visiting All Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\1266. Minimum Time Visiting All Points\obj\Debug\net6.0\1266. Minimum Time Visiting All Points.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\1266. Minimum Time Visiting All Points\obj\Debug\net6.0\1266. Minimum Time Visiting All Points.AssemblyInfo.cs
+C:\Users\pc\Desktop\LeetCode_\LeetCode_\LeetCode Solution\1266. Minimum Time Visiting All Points\obj\Debug\net6.0\1266. Minimum Time Visiting All Points.csproj.CoreCompileInputs.cache
