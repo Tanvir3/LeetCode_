@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public class Solution
+{
+    public int NumberOfMatches(int n)
+    {
+        int count = 0;
+        while(n != 1)
+        {
+            count += ((n % 2) + (n / 2));
+            n /= 2;
+        }
+        return count;
+    }
+}

@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1160. Find Words That Can B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1266. Minimum Time Visiting All Points", "1266. Minimum Time Visiting All Points\1266. Minimum Time Visiting All Points.csproj", "{25F026F4-2F0D-4F0A-A361-79F47E298B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2264. Largest 3-Same-Digit Number in String", "2264. Largest 3-Same-Digit Number in String\2264. Largest 3-Same-Digit Number in String.csproj", "{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2264. Largest 3-Same-Digit Number in String", "2264. Largest 3-Same-Digit Number in String\2264. Largest 3-Same-Digit Number in String.csproj", "{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1688. Count of Matches in Tournament", "1688. Count of Matches in Tournament\1688. Count of Matches in Tournament.csproj", "{26D6F060-59BC-4419-AB08-2FE4035275DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F2C58DD-B8FC-4023-9AB3-3154C1783EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D6F060-59BC-4419-AB08-2FE4035275DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D6F060-59BC-4419-AB08-2FE4035275DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D6F060-59BC-4419-AB08-2FE4035275DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D6F060-59BC-4419-AB08-2FE4035275DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
