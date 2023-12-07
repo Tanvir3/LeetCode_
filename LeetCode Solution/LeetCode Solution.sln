@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2264. Largest 3-Same-Digit 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1688. Count of Matches in Tournament", "1688. Count of Matches in Tournament\1688. Count of Matches in Tournament.csproj", "{26D6F060-59BC-4419-AB08-2FE4035275DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1716. Calculate Money in Leetcode Bank", "1716. Calculate Money in Leetcode Bank\1716. Calculate Money in Leetcode Bank.csproj", "{A1B3C5F2-4887-4585-96B2-F72FEA92F148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1716. Calculate Money in Leetcode Bank", "1716. Calculate Money in Leetcode Bank\1716. Calculate Money in Leetcode Bank.csproj", "{A1B3C5F2-4887-4585-96B2-F72FEA92F148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1903. Largest Odd Number in String", "1903. Largest Odd Number in String\1903. Largest Odd Number in String.csproj", "{94B0AC91-3C9A-4DC3-96F8-A15E8470B8EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{A1B3C5F2-4887-4585-96B2-F72FEA92F148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1B3C5F2-4887-4585-96B2-F72FEA92F148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1B3C5F2-4887-4585-96B2-F72FEA92F148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B0AC91-3C9A-4DC3-96F8-A15E8470B8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B0AC91-3C9A-4DC3-96F8-A15E8470B8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B0AC91-3C9A-4DC3-96F8-A15E8470B8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B0AC91-3C9A-4DC3-96F8-A15E8470B8EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
