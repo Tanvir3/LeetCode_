@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1903. Largest Odd Number in
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "606. Construct String from Binary Tree", "606. Construct String from Binary Tree\606. Construct String from Binary Tree.csproj", "{B6C99A58-A9C5-42B9-8B07-C705AE028AAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1436. Destination City", "1436. Destination City\1436. Destination City.csproj", "{58122390-8DDA-437F-BAC1-847AA4C195AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1436. Destination City", "1436. Destination City\1436. Destination City.csproj", "{58122390-8DDA-437F-BAC1-847AA4C195AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1496. Path Crossing", "1496. Path Crossing\1496. Path Crossing.csproj", "{FDCCC7D3-ADD6-4A14-9C9D-940851053B5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{58122390-8DDA-437F-BAC1-847AA4C195AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58122390-8DDA-437F-BAC1-847AA4C195AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58122390-8DDA-437F-BAC1-847AA4C195AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCCC7D3-ADD6-4A14-9C9D-940851053B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCCC7D3-ADD6-4A14-9C9D-940851053B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCCC7D3-ADD6-4A14-9C9D-940851053B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCCC7D3-ADD6-4A14-9C9D-940851053B5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
